@@ -1,0 +1,15 @@
+com\entitys\ClienteEstructura_.class
+com\entitys\Usuario_.class
+com\facades\ClienteFacade.class
+com\entitys\TipoUsuario_.class
+com\entitys\Usuario.class
+com\entitys\Cliente_.class
+com\entitys\Estatus.class
+com\entitys\Cliente.class
+com\facades\ClienteEstructuraFacade.class
+com\facades\AbstractFacade.class
+com\facades\EstatusFacade.class
+com\entitys\TipoUsuario.class
+com\mycompany\NewSessionBean.class
+com\entitys\Estatus_.class
+com\entitys\ClienteEstructura.class
